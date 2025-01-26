@@ -30,3 +30,6 @@ DB_WH='''your_database_warehouse'''
 
 
 คุณสามารถปรับเปลี่ยนเนื้อหาให้เหมาะสมกับโปรเจกต์ของคุณได้ตามต้องการ!
+### create .exe for windows
+pip install pyinstaller
+pyinstaller login.py --noconsole --onefile
