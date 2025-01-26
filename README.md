@@ -16,12 +16,12 @@
 pip install -r requirements.txt
 
 ### สร้างไฟล์ .env:
-- **DB_SERVER='''your_database_server'''
-- **DB_DATABASE='''your_database_name'''
-- **DB_USERNAME='''your_database_username'''
-- **DB_PASSWORD='''your_database_password'''
-- **DB_DRIVER='''your_database_driver'''
-- **DB_WH='''your_database_warehouse'''
+- DB_SERVER='''your_database_server'''
+- DB_DATABASE='''your_database_name'''
+- DB_USERNAME='''your_database_username'''
+- DB_PASSWORD='''your_database_password'''
+- DB_DRIVER='''your_database_driver'''
+- DB_WH='''your_database_warehouse'''
 
 1. **โคลนโปรเจกต์จาก GitHub**:
    ```bash
@@ -31,5 +31,5 @@ pip install -r requirements.txt
 
 คุณสามารถปรับเปลี่ยนเนื้อหาให้เหมาะสมกับโปรเจกต์ของคุณได้ตามต้องการ!
 ### create .exe for windows
-- **pip install pyinstaller
-- **pyinstaller login.py --noconsole --onefile
+- pip install pyinstaller
+- pyinstaller login.py --noconsole --onefile
