@@ -25,7 +25,7 @@ DB_WH='''your_database_warehouse'''
 
 1. **โคลนโปรเจกต์จาก GitHub**:
    ```bash
-   git clone https://github.com/your-repo/project-name.git
+   git clone https://github.com/Suncode2018/importdataapp.git
 
 
 
